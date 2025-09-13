@@ -1,0 +1,3 @@
+wareesha1,wareesha1
+admin,pass1
+teacher1,teachpass
